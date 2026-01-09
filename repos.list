@@ -7,6 +7,7 @@ disafronov/ansible_role-essential
 disafronov/ansible_role-fail2ban
 disafronov/ansible_role-firewalld
 disafronov/ansible_role-flux2_sops_age
+disafronov/ansible_role-gitlab_omnibus
 disafronov/ansible_role-gzip2pigz
 disafronov/ansible_role-iperf3_server
 disafronov/ansible_role-keepalived_k3s
