@@ -1,5 +1,6 @@
 .github/
 .github/workflows/
+.github/workflows/assign-pr.yml
 .github/workflows/breakage.yaml
 .github/workflows/semantic.yaml
 .requirements/
