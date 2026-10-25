@@ -3,5 +3,6 @@
 .github/workflows/assign-pr.yml
 .github/workflows/breakage.yaml
 .github/workflows/semantic.yaml
+.github/workflows/force-release-pr.yml
 .requirements/
 .requirements/**
